@@ -1,0 +1,27 @@
+img[src] {
+width: 12.5rem; height: 12.5rem
+}
+
+.color-title {
+font-weight: normal
+}
+
+#red {
+color:red
+}
+
+#blue {
+    color:blue
+    }
+
+#orange {
+color:orange
+}
+
+#green {
+    color:green
+    }
+
+#yellow {
+color:yellow
+}
